@@ -7,6 +7,7 @@
 	<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="assets/css/votingapp.css" rel="stylesheet" type="text/css" />
+	<link rel="icon" type="image/png"  href="assets/images/favicon-32x32.png" />
 </head>
 
 <body>
@@ -20,19 +21,19 @@
 			</div>
 			<div class="d-flex justify-content-center form_container">
 				<form method="post" nam="form1" id="form1" action="login.php">
-					<div class="form-group mb-1">
+					<div class="form-group mb-3">
 						<label for="uname" class="w-bolder text-white">Username</label>
     					<input type="text" class="form-control" id="uname" placeholder="user name" name="uname">
 					</div>
-					<div class="form-group mb-1">
+					<div class="form-group mb-3">
 						<label for="pass" class="w-bolder text-white">Password</label>
 						<input type="password" class="form-control" id="pass" placeholder="Password"  name="pass">
 					</div>
-					<div class="form-check mb-1">
+					<div class="form-check mb-3">
 						<input type="checkbox" class="form-check-input" id="customControlInline">
 						<label class="form-check-label text-white" for="customControlInline">Remember me</label>
 					</div>
-					<div class="mb-1">
+					<div class="mb-3">
 						<input type="submit" class="btn btn-primary btn-block" value="Login" />
 					</div>
 				</form>

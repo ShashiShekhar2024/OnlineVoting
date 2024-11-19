@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 	<title>Voting</title>
-	<link rel="icon" type="image/gif"  href="images/animated_favicon1.gif" >
+	<link rel="icon" type="image/png"  href="assets/images/favicon-32x32.png" />
 	<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="assets/css/votingapp.css" rel="stylesheet" type="text/css" />

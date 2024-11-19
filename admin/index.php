@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="" />
-	<title>Voting</title>
-	<link rel="icon" type="image/gif"  href="" >
+	<title>Voting-Application-Adminpannel</title>
+	<link rel="icon" type="image/png"  href="../assets/images/favicon-32x32.png" />
 	<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="../assets/css/votingapp.css" rel="stylesheet" type="text/css" />
@@ -20,15 +20,15 @@
 			</div>
 			<div class="d-flex justify-content-center form_container">
 				<form method="post" nam="form1" id="form1" action="login.php">
-					<div class="form-group mb-1">
+					<div class="form-group mb-3">
 						<label for="uname" class="w-bolder text-white">Username</label>
     					<input type="text" class="form-control" id="uname" placeholder="user name" name="uname">
 					</div>
-					<div class="form-group mb-1">
+					<div class="form-group mb-3">
 						<label for="pass" class="w-bolder text-white">Password</label>
 						<input type="password" class="form-control" id="pass" placeholder="Password"  name="pass">
 					</div>
-					<div class="mb-1">
+					<div class="mb-4">
 						<input type="submit" class="btn btn-primary btn-block" value="Login" />
 					</div>
 				</form>

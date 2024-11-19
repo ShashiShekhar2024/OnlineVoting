@@ -4,6 +4,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="" />
 	<title>Voting</title>
+	<link rel="icon" type="image/png"  href="assets/images/favicon-32x32.png" />
 </head>
 
 <body>
