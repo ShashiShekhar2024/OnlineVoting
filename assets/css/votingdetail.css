@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header-bg {
     background: #88bdbc !important;
 }
@@ -7,4 +8,15 @@
     height: 650px;
 }
 
+=======
+.header-bg {
+    background: #88bdbc !important;
+}
+
+.bg-left-pannel {
+    background: #254e58 !important;
+    height: 650px;
+}
+
+>>>>>>> 9f56af447b66b68153dd82e1e919af06993781ca
 /**/
